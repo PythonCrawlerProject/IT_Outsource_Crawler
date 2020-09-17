@@ -1,0 +1,9 @@
+html2text
+openpyxl
+fake_useragent
+pymysql
+mysql-connector-python
+SQLAlchemy
+APScheduler
+lxml
+requests
